@@ -1,0 +1,6 @@
+pymilvus==2.6.6
+langchain==1.2.3
+langchain-milvus==0.3.3
+langchain-openai==1.1.7
+python-dotenv==1.2.1
+langchain-community==0.4.1
